@@ -2,7 +2,7 @@
 
 Repo for scripts relating to Proxmox PVE from House of Logic.
 
-Initial version includes API Demo Script to accompany getting started YouTube video.
+Initial version includes API Demo Script to accompany getting started [YouTube video](https://youtu.be/8DCwnauqg3E).
 
 Useful Proxmox / Postman links
 
