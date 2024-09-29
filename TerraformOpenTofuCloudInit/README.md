@@ -10,7 +10,7 @@ It had to be replaced with:
 qm set 9000 --boot c --bootdisk scsi0
 
 ## Video Demonstration
-[House of Logic demo video]()
+[House of Logic demo video](https://youtu.be/HbBblJOZs-c)
 
 
 ## Reference Material
