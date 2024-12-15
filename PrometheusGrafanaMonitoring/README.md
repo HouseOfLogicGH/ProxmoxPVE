@@ -86,8 +86,11 @@ sudo docker run -d -p 3000:3000 --name=grafana \
   grafana/grafana-enterprise
 
 Login to grafana using browser to connect to Grafana port 3000, eg http://192.168.2.11:3000
+
 Default credentials
+
 username = admin
+
 password = admin 
 
 ### Create dashboard in grafana using UI
@@ -96,11 +99,12 @@ Custom label
 
 {{id}}
 
-Useful links:
+## Useful links
 
-[https://github.com/prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter)
+[Prometheus PVE Exporter](https://github.com/prometheus-pve/prometheus-pve-exporter)
 
-https://prometheus.io/docs/prometheus/latest/installation/#using-docker
-https://grafana.com/docs/grafana/latest/setup-grafana/installation/docker/#run-grafana-docker-image
+[Installing Prometheus using Docker](https://prometheus.io/docs/prometheus/latest/installation/#using-docker)
+
+[Installing Grafana using Docker](https://grafana.com/docs/grafana/latest/setup-grafana/installation/docker/#run-grafana-docker-image)
 
  
