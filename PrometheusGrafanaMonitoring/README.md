@@ -1,6 +1,7 @@
 # Monitoring Proxmox with Prometheus and Grafana
 
 ## Instructions
+These instructions accompany the [YouTube instructional video by House of Logic](https://youtu.be/CBa0GIDGMP4).
 
 ### User Setup
 Create user with full read permission in GUI.
