@@ -1,0 +1,6 @@
+# for use with https://github.com/prometheus-pve/prometheus-pve-exporter
+default:
+    user: monitoring@pve # your user
+    password: Password123 # your password
+    # Optional: set to false to skip SSL/TLS verification
+    verify_ssl: false
