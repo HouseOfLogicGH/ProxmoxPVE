@@ -10,7 +10,7 @@ sudo docker ps
 curl localhost:9221
 cd ../prometheus
 sudo docker volume create prometheus-data
-sudo docker run \
+sudo docker run --name prometheus \
     -p 9090:9090 \
     -d \
     -v /home/user/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml \
