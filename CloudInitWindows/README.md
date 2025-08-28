@@ -52,3 +52,5 @@ Assessment and Deployment Toolkit:
 Cloudbase-Init documentation pages:
 
 [https://cloudbase-init.readthedocs.io/en/latest/index.html](https://cloudbase-init.readthedocs.io/en/latest/index.html)
+
+The vmconfig.txt includes the hardware details for the VM used in the demonstration video (dumped out with qm config <id>) and is not required to setup cloudbase / cloudinit - it is simply included for reference purposes. 

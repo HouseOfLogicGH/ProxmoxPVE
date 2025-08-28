@@ -18,7 +18,7 @@ apt-get update
 
 apt-get install docker.io
 ```
-The Proxmox Virtualisation Environment Exporter is found here (https://github.com/prometheus-pve/prometheus-pve-exporter)[https://github.com/prometheus-pve/prometheus-pve-exporter]
+The Proxmox Virtualisation Environment Exporter is found here [https://github.com/prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter)
 
 Create config for pve exporter using nano
 ```
